@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<style>
+    .gray-border
+        {border-color:slategray;
+        border-width:10px;
+        border-style:groove;}
+    .small-image 
+        {height:200 px;
+        width: 300px;}
+    .silver-background 
+        {background-color: silver;}
+    p {font-size:16px;
+     font-family:fantasy,monospace;}
+    
+</style>    
+
+<head>
+    <h1>
+        The Trials of Clay
+    </h1>
+</head>
+    
+<body>
+    <p class="silver-background">
+            Clayton has just finished basic html. This was a 2 hour affair.
+            It was quite simple, but can he continue on? Next objective is
+            CSS....my god will our hero survive? Can he continue down the road?
+        
+    </p>
+        
+    <form>
+            <label for="yes"><input id="yes" name="yes/no" type="checkbox">Yes</label>
+            <label for="yes"><input id="no" name="yes/no" type="checkbox">No</label>
+    </form>
+
+    <p>
+        He's done it. Conquerer of the basic CSS trail. Unfortunately, Clayton
+        has much to learn. CSS is a broad path and shall take many moons to master.
+    </p>
+    <img class="small-image gray-border" src="https://images.pexels.com/photos/214574/pexels-photo-214574.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260">
+
+    </body>
+</html>
