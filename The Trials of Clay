@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <h1>The Trials of Clay
+        </h1>
+    </head>
+    <body>
+        <p1>
+            Clayton has just finished basic html. This was a 2 hour affair.
+            It was quite simple, but can he continue on? Next objective is
+            CSS....my god will our hero survive?
+        
+        </p1>
+        <form>
+            <label for="yes"><input id="yes" name="yes/no" type="checkbox">Yes</label>
+            <label for="yes"><input id="no" name="yes/no" type="checkbox">No</label>
+        </form>
+        
+
+    </body>
+</html>
