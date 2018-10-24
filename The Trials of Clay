@@ -1,21 +1,31 @@
 <!DOCTYPE html>
 <html>
+    <style>
+        .small-image 
+            {height:200 px;
+            width: 300px;}
+        .silver-background 
+            {background-color: silver;}
+    </style>    
+
     <head>
         <h1>The Trials of Clay
+
         </h1>
     </head>
     <body>
-        <p1>
+        <p1 class="silver-background">
             Clayton has just finished basic html. This was a 2 hour affair.
             It was quite simple, but can he continue on? Next objective is
-            CSS....my god will our hero survive?
+            CSS....my god will our hero survive? Can he continue down the road?
         
         </p1>
-        <form>
+        
+    <form>
             <label for="yes"><input id="yes" name="yes/no" type="checkbox">Yes</label>
             <label for="yes"><input id="no" name="yes/no" type="checkbox">No</label>
-        </form>
-        
+            </form>
+        <img class="small-image" src="https://images.pexels.com/photos/214574/pexels-photo-214574.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260">
 
     </body>
 </html>
